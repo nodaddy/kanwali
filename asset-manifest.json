@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.767265f8.css",
-    "main.js": "/static/js/main.6a7d24ea.js",
-    "index.html": "/index.html",
-    "main.767265f8.css.map": "/static/css/main.767265f8.css.map",
-    "main.6a7d24ea.js.map": "/static/js/main.6a7d24ea.js.map"
+    "main.css": "/kanwali/static/css/main.767265f8.css",
+    "main.js": "/kanwali/static/js/main.6a7d24ea.js",
+    "index.html": "/kanwali/index.html",
+    "main.767265f8.css.map": "/kanwali/static/css/main.767265f8.css.map",
+    "main.6a7d24ea.js.map": "/kanwali/static/js/main.6a7d24ea.js.map"
   },
   "entrypoints": [
     "static/css/main.767265f8.css",
